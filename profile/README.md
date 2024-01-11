@@ -1,6 +1,9 @@
-## Hi there 👋
+# estie-ds
+
+ds は **D**ata **S**ource の略。
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
